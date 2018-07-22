@@ -1,0 +1,40 @@
+.contenedor{
+    margin: 40px auto;
+    width: 1170px;
+}
+
+.container{
+    padding: 60px;
+}
+
+h1{
+    font-size: 60px;
+    letter-spacing: -1px;
+    line-height: 1em;
+}
+
+.texto{
+    float: left;
+    width: 35%;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.texto p{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+iframe{
+    margin: 20px;
+    width: 50%;
+}
+
+.block{
+    float: left;
+    width: 23%;
+}
+
+div.block p{
+    font-size: 16px;
+}

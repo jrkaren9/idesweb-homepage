@@ -1,0 +1,31 @@
+.contenedor{
+    margin: 40px 10px;
+}
+
+.container{
+    padding: 40px;
+}
+
+h1{
+    font-size: 30px;
+    letter-spacing: -1px;
+    line-height: 1em;
+}
+
+.texto{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.texto p{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+iframe{
+    width: 100%;
+}
+
+div.block p{
+    font-size: 16px;
+}
